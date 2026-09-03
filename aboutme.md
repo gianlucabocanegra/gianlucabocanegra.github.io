@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little about who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gianluca Bocanegra. I'm a member of the men's varsity tennis team at Kenyon College, where I study Economics. A few things about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm from Trujillo, Peru
+- I spent a year studying at the London School of Economics (LSE)
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a senior at Kenyon College majoring in Economics. I'm from Peru, and I had the opportunity to study abroad for a year at the London School of Economics (LSE). I'm interested in finance, especially hedge funds and wealth management. Outside of academics, I play varsity tennis. 
