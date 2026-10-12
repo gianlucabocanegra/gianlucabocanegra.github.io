@@ -7,7 +7,7 @@ author: Gianluca Bocanegra
 
 For this homework, I made a wristband with one LED and two homemade switches. The LED only turns on when both switches are closed at the same time.
 
-The first switch is a pair of snaps. They also close the band around my wrist. The second switch is a paperclip that clips onto a patch of conductive fabric. When the clip touches the fabric, that switch closes. I sewed everything together with conductive thread. The battery holder and most of the thread are on the back, so the front only shows the LED, the snap, and the paperclip switch.
+The first switch is a pair of snaps. It also closes the band around my wrist. The second switch is a paperclip that clips onto a piece of conductive fabric. When the clip touches the fabric, that switch closes. I sewed everything together with conductive thread. The battery holder and most of the thread are on the back so the front only shows the LED, the snap, and the paperclip switch.
 
 Paper prototype:
 
