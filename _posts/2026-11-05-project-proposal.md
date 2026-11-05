@@ -5,7 +5,7 @@ subtitle: My project collection proposal
 author: Gianluca Bocanegra
 ---
 
-For my project collection I'm making Glow Kit. It's three pieces that light up or make sound when you touch them or when the light changes. You can pin them onto a bag, a cap or a jacket.
+For my project collection I'm doing a Glow Kit. It's three pieces that light up or make sound when you touch them or when the light changes. You can pin them onto a bag, jacket, etc. I wanted gear we use every single day (like your backpack when you go to class) that makes you easier to see in the dark and more fun to use so each piece reacts to a squeeze, a fold or the sunlight.
 
 Here is Slide 1 with the idea and why I want to make it:
 
