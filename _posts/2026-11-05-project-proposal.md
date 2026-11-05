@@ -19,11 +19,11 @@ Here is Slide 2 with my circuit sketches and materials list:
 
 Hi, I'm Gianluca, and my project is called Glow Kit. Most of the stuff we carry around is dull and doesn't do anything so I made three small pieces that react to you.
 
-Piece 1 is the Squeeze Patch. When you squeeze it two fabric patches touch and an LED turns on.
+Piece 1 is the squeeze patch. When you squeeze it two fabric patches touch and an LED turns on.
 
-Piece 2 is the Flap Light. When you fold the flap down two LEDs turn on.
+Piece 2 is the flap light. When you fold the flap down two LEDs turn on.
 
-Piece 3 is the Glow Pouch, and it uses a LilyPad Arduino. When you press the switch an LED blinks. At the same time, a buzzer changes its sound depending on how bright it is.
+Piece 3 is the glow pouch, and it uses a LilyPad Arduino. When you press the switch an LED blinks. At the same time, a buzzer changes its sound depending on how bright it is.
 
 All three pieces use homemade fabric switches. On Piece 3, I'll sew the conductive thread in a neat grid and cover it with embroidery floss so it looks nice. I'm excited to do this, it should be a really nice and new experience. 
 
