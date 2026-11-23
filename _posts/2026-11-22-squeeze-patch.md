@@ -7,7 +7,7 @@ author: Gianluca Bocanegra
 
 For this piece I made a felt patch with an LED on it. When you squeeze the patch the light turns on. When you let go it turns off. There is no button. Your hand is the switch.
 
-**Why I made it:** I wanted a light that you turn on with your hand without having to find a button. You could put it on a backpack strap or a jacket and just squeeze it when you want to be seen. Just imagine walking in the dark and trying to locate that button when you’re holding some stuff in your hands or even wearing gloves or without looking at your bag. It is annoying and hard. But the soft patch helps you locate it even with eyes on the street and pressing it by an entire hand. That is the reason I went for the patch instead of the button.
+**Why I made it:** I wanted a light that you turn on with your hand without having to find a button. Just imagine walking in the dark and trying to locate that button when you’re holding some stuff in your hands or even wearing gloves or without looking at your bag. Finding a tiny bottom is annoying and hard. But the soft patch helps you locate it even with eyes on the street and pressing it with your whole hand. That is the reason I went for the patch instead of the button.
 
 **How it works:** There are two small pieces of conductive fabric, one on each side of a folded piece of felt. When I squeeze they touch and the circuit closes so the LED lights up. It uses a coin cell battery, no code.
 
@@ -17,7 +17,7 @@ For this piece I made a felt patch with an LED on it. When you squeeze the patch
 - 2 pieces of conductive fabric
 - Conductive thread
 - Regular thread and a needle
-- 1 red LED
+- 1 blue LED
 - LilyPad switched battery holder
 - CR2032 coin cell battery
 - Alligator clips (for testing)
