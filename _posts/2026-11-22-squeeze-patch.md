@@ -9,7 +9,7 @@ For this piece I made a felt patch with an LED on it. When you squeeze the patch
 
 **Why I made it:** I wanted a light that you turn on with your hand without having to find a button. You could put it on a backpack strap or a jacket and just squeeze it when you want to be seen. Think about walking home in the dark, you need your light on, but you're carrying things, wearing gloves or just not looking at your bag. Finding a tiny button in that moment is annoying and hard. A soft patch is different. You can find it by feel and press it with your whole hand even with your eyes on the road. That's why I made the switch part of the fabric instead of adding a hard button. 
 
-**How it works:** There are two small pieces of conductive fabric, one on each side of a folded piece of felt. When I squeeze, they touch and the circuit closes, so the LED lights up. It uses a coin cell battery, and there is no code.
+**How it works:** There are two small pieces of conductive fabric, one on each side of a folded piece of felt. When I squeeze they touch and the circuit closes so the LED lights up. It uses a coin cell battery, no code.
 
 ## Materials
 
@@ -25,13 +25,13 @@ For this piece I made a felt patch with an LED on it. When you squeeze the patch
 
 ## Paper prototype
 
-I printed it out to make sure everything fits. Red lines are + and blue lines are −
+Paper prototype below. Red lines are + and blue lines are −
 
 ![Paper prototype](/assets/img/squeeze-prototype.png)
 
 ## Alligator clip test
 
-Before sewing I tested it with alligator clips. Battery + goes to patch 1. Patch 2 goes to the LED +. The LED − goes back to battery −. When I squeezed the patches together the LED turned on.
+Before sewing I tested it with alligator clips. Battery + goes to patch 1. Patch 2 goes to the LED +. The LED − goes back to battery -When I squeezed the patches together the LED turned on.
 
 ![Alligator clip test](/assets/img/squeeze-alligator.jpg)
 
