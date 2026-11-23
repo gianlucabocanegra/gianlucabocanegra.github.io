@@ -31,7 +31,7 @@ Paper prototype below. Red lines are + and blue lines are −
 
 ## Alligator clip test
 
-Before sewing I tested it with alligator clips. Battery + goes to patch 1. Patch 2 goes to the LED +. The LED − goes back to battery -When I squeezed the patches together the LED turned on.
+Before sewing I tested it with alligator clips. Battery + goes to patch 1. Patch 2 goes to the LED +. The LED − goes back to battery-. When I squeezed the patches together the LED turned on.
 
 ![Alligator clip test](/assets/img/squeeze-alligator.jpg)
 
